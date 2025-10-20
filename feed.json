@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "AbsaluteCare",
+    "description": "",
+    "home_page_url": "https://itzmeambe.github.io/mywebsite",
+    "feed_url": "https://itzmeambe.github.io/mywebsite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ambesiwe"
+    },
+    "items": [
+    ]
+}

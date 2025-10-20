@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://itzmeambe.github.io/mywebsite/sitemap.xml
